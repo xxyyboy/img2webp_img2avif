@@ -1,0 +1,36 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "ASM_NASM"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_ASM_NASM
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/highbd_sad4d_sse2.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/highbd_sad4d_sse2.asm.o"
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/highbd_sad_sse2.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/highbd_sad_sse2.asm.o"
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/highbd_subpel_variance_impl_sse2.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/highbd_subpel_variance_impl_sse2.asm.o"
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/highbd_variance_impl_sse2.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/highbd_variance_impl_sse2.asm.o"
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/sad4d_sse2.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/sad4d_sse2.asm.o"
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/sad_sse2.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/sad_sse2.asm.o"
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/ssim_sse2_x86_64.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/ssim_sse2_x86_64.asm.o"
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/subpel_variance_sse2.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/subpel_variance_sse2.asm.o"
+  "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_dsp/x86/subtract_sse2.asm" "/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_build/CMakeFiles/aom_dsp_encoder_sse2.dir/aom_dsp/x86/subtract_sse2.asm.o"
+  )
+set(CMAKE_ASM_NASM_COMPILER_ID "NASM")
+
+# The include file search paths:
+set(CMAKE_ASM_NASM_TARGET_INCLUDE_PATH
+  "../"
+  "."
+  "../apps"
+  "../common"
+  "../examples"
+  "../stats"
+  "../third_party/libyuv/include"
+  "../third_party/libwebm"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

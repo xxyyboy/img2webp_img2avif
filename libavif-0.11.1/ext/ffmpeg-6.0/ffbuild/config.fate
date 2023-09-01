@@ -1,0 +1,1 @@
+config:x86:x86_64:generic:linux:gcc 5.5.0 (GCC):--prefix=/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg60/ --enable-static --enable-libaom

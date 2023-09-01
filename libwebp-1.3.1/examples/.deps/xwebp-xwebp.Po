@@ -1,0 +1,434 @@
+xwebp-xwebp.o: xwebp.c /usr/include/stdc-predef.h /usr/include/assert.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-float.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h ../src/webp/config.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/avformat.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/avutil.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/common.h \
+ /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/inttypes.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/limits.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/math.h \
+ /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h \
+ /usr/include/bits/huge_vall.h /usr/include/bits/inf.h \
+ /usr/include/bits/nan.h /usr/include/bits/mathdef.h \
+ /usr/include/bits/mathcalls.h /usr/include/bits/mathinline.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/attributes.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/macros.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/avconfig.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/mem.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/avutil.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/version.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/error.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/rational.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/mathematics.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/intfloat.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/log.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/pixfmt.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/hwcontext.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/buffer.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/frame.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/channel_layout.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/dict.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/samplefmt.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/log.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/pixfmt.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/rational.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/samplefmt.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_id.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/version_major.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/version_major.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_par.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/channel_layout.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_id.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/defs.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/packet.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/attributes.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/buffer.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/dict.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/version.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/avio.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/version_major.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/version.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/version_major.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/avcodec.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/frame.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_desc.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_par.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/defs.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/packet.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/version.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/imgutils.h \
+ /data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/pixdesc.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/encode.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/./types.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/mux.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/./mux_types.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/././types.h \
+ /data/nginx/SecNginx1202/3partylib/jpeg9e/include/jpeglib.h \
+ /data/nginx/SecNginx1202/3partylib/jpeg9e/include/jconfig.h \
+ /data/nginx/SecNginx1202/3partylib/jpeg9e/include/jmorecfg.h \
+ ../examples/example_util.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/types.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/mux_types.h \
+ ../imageio/image_dec.h ../imageio/./metadata.h ../imageio/./jpegdec.h \
+ ../imageio/./pngdec.h ../imageio/./pnmdec.h ../imageio/./tiffdec.h \
+ ../imageio/./webpdec.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/decode.h \
+ ../imageio/./wicdec.h ../imageio/imageio_util.h ../imageio/webpdec.h \
+ stopwatch.h /usr/include/sys/time.h unicode.h ../sharpyuv/sharpyuv.h \
+ /data/nginx/SecNginx1202/3partylib/giflib521/include/gif_lib.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdbool.h gifdec.h \
+ unicode_gif.h unicode.h gifdec.h /usr/include/sys/stat.h \
+ /usr/include/bits/stat.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h /usr/include/fcntl.h \
+ /usr/include/bits/fcntl.h /usr/include/bits/fcntl-linux.h \
+ /usr/include/utime.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/stdio.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+../src/webp/config.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/avformat.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/avutil.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/common.h:
+
+/usr/include/errno.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/include/inttypes.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/limits.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/attributes.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/macros.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/avconfig.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/mem.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/avutil.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/version.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/error.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/rational.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/mathematics.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/intfloat.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/log.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/pixfmt.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/hwcontext.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/buffer.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/frame.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/channel_layout.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/dict.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/samplefmt.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/log.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/pixfmt.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/rational.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/samplefmt.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_id.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/version_major.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/version_major.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_par.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/channel_layout.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_id.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/defs.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/packet.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/attributes.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/buffer.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/dict.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/version.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/avio.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/version_major.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/version.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavformat/version_major.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/avcodec.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/frame.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_desc.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/codec_par.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/defs.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/packet.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavcodec/version.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/imgutils.h:
+
+/data/nginx/SecNginx1202/3partylib/ffmpeg60/include/libavutil/pixdesc.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/encode.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/./types.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/mux.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/./mux_types.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/././types.h:
+
+/data/nginx/SecNginx1202/3partylib/jpeg9e/include/jpeglib.h:
+
+/data/nginx/SecNginx1202/3partylib/jpeg9e/include/jconfig.h:
+
+/data/nginx/SecNginx1202/3partylib/jpeg9e/include/jmorecfg.h:
+
+../examples/example_util.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/types.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/mux_types.h:
+
+../imageio/image_dec.h:
+
+../imageio/./metadata.h:
+
+../imageio/./jpegdec.h:
+
+../imageio/./pngdec.h:
+
+../imageio/./pnmdec.h:
+
+../imageio/./tiffdec.h:
+
+../imageio/./webpdec.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/decode.h:
+
+../imageio/./wicdec.h:
+
+../imageio/imageio_util.h:
+
+../imageio/webpdec.h:
+
+stopwatch.h:
+
+/usr/include/sys/time.h:
+
+unicode.h:
+
+../sharpyuv/sharpyuv.h:
+
+/data/nginx/SecNginx1202/3partylib/giflib521/include/gif_lib.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdbool.h:
+
+gifdec.h:
+
+unicode_gif.h:
+
+unicode.h:
+
+gifdec.h:
+
+/usr/include/sys/stat.h:
+
+/usr/include/bits/stat.h:
+
+/usr/include/unistd.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/confname.h:
+
+/usr/include/getopt.h:
+
+/usr/include/fcntl.h:
+
+/usr/include/bits/fcntl.h:
+
+/usr/include/bits/fcntl-linux.h:
+
+/usr/include/utime.h:

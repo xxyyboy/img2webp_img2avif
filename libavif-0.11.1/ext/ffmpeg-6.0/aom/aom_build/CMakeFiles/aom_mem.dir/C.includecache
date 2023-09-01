@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../aom/aom_integer.h
+stddef.h
+-
+stdint.h
+-
+inttypes.h
+-
+
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/aom_mem.c
+aom_mem.h
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/aom_mem.h
+assert.h
+-
+stdlib.h
+-
+string.h
+-
+include/aom_mem_intrnl.h
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/include/aom_mem_intrnl.h
+aom/aom_integer.h
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/aom/aom_integer.h
+
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/aom_mem.h
+aom/aom_integer.h
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/aom/aom_integer.h
+config/aom_config.h
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/config/aom_config.h
+lddk.h
+-
+string.h
+-
+
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/include/aom_mem_intrnl.h
+config/aom_config.h
+/data/nginx/SecNginx1202/3partylib/libavif-0.11.1/ext/ffmpeg-6.0/aom/aom_mem/include/config/aom_config.h
+
+config/aom_config.h
+

@@ -1,0 +1,2 @@
+/usr/local/bin/ar qc libaom_gmock.a  CMakeFiles/aom_gmock.dir/third_party/googletest/src/googlemock/src/gmock-all.cc.o
+/usr/local/bin/ranlib libaom_gmock.a

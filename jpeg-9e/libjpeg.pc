@@ -1,0 +1,10 @@
+prefix=/data/nginx/nginxCDN/nginx-1.24.0/3partylib/jpeg9e
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libjpeg
+Description: Reads and writes JPEG files
+Version: 9.5.0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

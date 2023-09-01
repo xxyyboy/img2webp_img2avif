@@ -1,0 +1,13 @@
+prefix=/data/nginx/nginxCDN/nginx-1.24.0/3partylib/libgd232
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: gd
+Description: GD graphics library
+Version: 2.3.2
+Requires:
+Requires.private:   zlib  xpm
+Cflags: -I${includedir}
+Libs.private:  -L/data/nginx/nginxCDN/nginx-1.24.0/3partylib/libpng1639/lib -L/data/nginx/nginxCDN/nginx-1.24.0/3partylib/libpng1639/lib -lpng16 -L/data/nginx/nginxCDN/nginx-1.24.0/3partylib/jpeg9e/lib  -ljpeg -L/data/nginx/nginxCDN/nginx-1.24.0/3partylib/libwebp131/lib  -lwebp 
+Libs: -L${libdir} -lgd

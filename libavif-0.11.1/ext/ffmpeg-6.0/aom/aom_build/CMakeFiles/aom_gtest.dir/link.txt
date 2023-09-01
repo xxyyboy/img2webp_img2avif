@@ -1,0 +1,2 @@
+/usr/local/bin/ar qc libaom_gtest.a  CMakeFiles/aom_gtest.dir/third_party/googletest/src/googletest/src/gtest-all.cc.o
+/usr/local/bin/ranlib libaom_gtest.a

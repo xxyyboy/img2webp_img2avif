@@ -1,0 +1,2 @@
+/usr/local/bin/ar qc libaom_av1_rc.a  CMakeFiles/aom_av1_rc.dir/av1/ratectrl_rtc.cc.o
+/usr/local/bin/ranlib libaom_av1_rc.a

@@ -1,0 +1,61 @@
+../imageio/xwebp-image_dec.o: ../imageio/image_dec.c \
+ /usr/include/stdc-predef.h ../imageio/./image_dec.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/types.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
+ /usr/include/inttypes.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h ../src/webp/config.h \
+ ../imageio/././metadata.h ../imageio/././jpegdec.h \
+ ../imageio/././pngdec.h ../imageio/././pnmdec.h ../imageio/././tiffdec.h \
+ ../imageio/././webpdec.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/decode.h \
+ /data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/./types.h \
+ ../imageio/././wicdec.h
+
+/usr/include/stdc-predef.h:
+
+../imageio/./image_dec.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/types.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+../src/webp/config.h:
+
+../imageio/././metadata.h:
+
+../imageio/././jpegdec.h:
+
+../imageio/././pngdec.h:
+
+../imageio/././pnmdec.h:
+
+../imageio/././tiffdec.h:
+
+../imageio/././webpdec.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/decode.h:
+
+/data/nginx/SecNginx1202/3partylib/libwebp131/include/webp/./types.h:
+
+../imageio/././wicdec.h:
