@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/apng2webp_apngopt.dir/apng2webp_apngopt/apngopt.cpp.o  -o apng2webp_apngopt  -lz /data/nginx/SecNginx1202/3partylib/libpng1639/lib/libpng.a -lz -lm /data/nginx/SecNginx1202/3partylib/libpng1639/lib/libpng.a -lm 

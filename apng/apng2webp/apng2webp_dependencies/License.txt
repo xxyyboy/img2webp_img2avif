@@ -1,0 +1,1 @@
+zlib license for apngdisraw and apng2webp_apngopt

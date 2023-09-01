@@ -1,0 +1,14 @@
+prefix=/data/nginx/SecNginx1202/3partylib/ffmpeg60/
+exec_prefix=${prefix}
+libdir=/data/nginx/SecNginx1202/3partylib/ffmpeg60//lib
+includedir=/data/nginx/SecNginx1202/3partylib/ffmpeg60//include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 60.3.100
+Requires: libswresample >= 4.10.100, libavutil >= 58.2.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavcodec -pthread -lm -llzma -lz
+Libs.private: 
+Cflags: -I${includedir}

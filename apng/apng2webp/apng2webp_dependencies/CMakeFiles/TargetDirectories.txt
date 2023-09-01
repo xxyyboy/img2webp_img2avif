@@ -1,0 +1,8 @@
+/data/nginx/SecNginx1202/3partylib/apng/apng2webp/apng2webp_dependencies/CMakeFiles/install/strip.dir
+/data/nginx/SecNginx1202/3partylib/apng/apng2webp/apng2webp_dependencies/CMakeFiles/install/local.dir
+/data/nginx/SecNginx1202/3partylib/apng/apng2webp/apng2webp_dependencies/CMakeFiles/install.dir
+/data/nginx/SecNginx1202/3partylib/apng/apng2webp/apng2webp_dependencies/CMakeFiles/list_install_components.dir
+/data/nginx/SecNginx1202/3partylib/apng/apng2webp/apng2webp_dependencies/CMakeFiles/rebuild_cache.dir
+/data/nginx/SecNginx1202/3partylib/apng/apng2webp/apng2webp_dependencies/CMakeFiles/edit_cache.dir
+/data/nginx/SecNginx1202/3partylib/apng/apng2webp/apng2webp_dependencies/CMakeFiles/apngdisraw.dir
+/data/nginx/SecNginx1202/3partylib/apng/apng2webp/apng2webp_dependencies/CMakeFiles/apng2webp_apngopt.dir

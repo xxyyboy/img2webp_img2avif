@@ -1,0 +1,14 @@
+prefix=/data/nginx/SecNginx1202/3partylib/ffmpeg60/
+exec_prefix=${prefix}
+libdir=/data/nginx/SecNginx1202/3partylib/ffmpeg60//lib
+includedir=/data/nginx/SecNginx1202/3partylib/ffmpeg60//include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 58.2.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil -pthread -lm -lX11
+Libs.private: 
+Cflags: -I${includedir}

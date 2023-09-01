@@ -1,0 +1,14 @@
+prefix=/data/nginx/SecNginx1202/3partylib/ffmpeg60/
+exec_prefix=${prefix}
+libdir=/data/nginx/SecNginx1202/3partylib/ffmpeg60//lib
+includedir=/data/nginx/SecNginx1202/3partylib/ffmpeg60//include
+
+Name: libswresample
+Description: FFmpeg audio resampling library
+Version: 4.10.100
+Requires: libavutil >= 58.2.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lswresample -lm
+Libs.private: 
+Cflags: -I${includedir}

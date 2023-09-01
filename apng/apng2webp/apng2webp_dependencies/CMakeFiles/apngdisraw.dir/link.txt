@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/apngdisraw.dir/apngdisraw/apngdis.cpp.o  -o apngdisraw  /data/nginx/SecNginx1202/3partylib/libpng1639/lib/libpng.a -lz -lm /data/nginx/SecNginx1202/3partylib/jsoncpp-1.9.5/build/lib/libjsoncpp.a 
